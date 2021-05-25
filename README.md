@@ -5,9 +5,9 @@
 **gershomlapaix/gershomlapaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning at Rwanda Coding Coding Academy(RCA)
+- 🌱 I’m currently studying at Rwanda Coding Coding Academy(RCA)
 - 👯 I’m looking to collaborate on some projects.
-- 💬 Ask me about Software development
+- 💬 Ask me the Software development concerns
 
 I am software engineer specialised in JavaScript, React js, vue js,Node js and Java.
 I look forward to collaborate with other coding enthusiasts, so that together we can
