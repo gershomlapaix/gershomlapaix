@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently studying at Rwanda Coding Coding Academy(RCA)
-- 👯 I’m looking to collaborate on some projects.
 - 💬 Ask me the Software development concerns
 
 I am software engineer specialised in JavaScript, React js, vue js,Node js and Java.
