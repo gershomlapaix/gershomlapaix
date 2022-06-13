@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying at Rwanda Coding Coding Academy(RCA)
 - 💬 Ask me the Software development concerns
 
-I am software engineer specialised in JavaScript, React js, vue js,Node js and Java.
-I look forward to collaborate with other coding enthusiasts, so that together we can
-build something amazing and important to the society.
+Hi, I'm a software developer who's always looking straightforward to implement the solutions to the problems around. Team working and enthusiasm in coding is what makes me feel untired to give my best to the fullest.
