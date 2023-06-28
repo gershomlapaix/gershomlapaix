@@ -1,5 +1,4 @@
-### Hi there 👋 It's La paix Gershom Nsengiyumva
-![Twitter Follow](https://img.shields.io/twitter/follow/GershomNsengiy1?style=social)
+### Hi there! It's La paix Gershom Nsengiyumva
 
 <!--
 **gershomlapaix/gershomlapaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
