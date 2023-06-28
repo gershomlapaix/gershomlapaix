@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 
-Hi, I'm a software developer who's always looking straightforward to implement the solutions to the problems around. Team working and enthusiasm in coding is what makes me feel untired to give my best to the fullest.
+Let's build something better.
